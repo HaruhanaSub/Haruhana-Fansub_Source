@@ -1,12 +1,12 @@
-<p>
+<p align = "center">
 	<img src="https://www.z4a.net/images/2021/08/25/XKsub-Ginga-Tetsudou-no-Yoru-2006-Poster.jpg" style="width:750px;height:999px">
 </p>
-<hr>
+
 <h4>资源下载：</h4>
 <p>
-	字幕文件&amp;字体文件/Subtitles &amp; Fonts： <a href="https://bbs.acgrip.com/thread-8031-1-1.html" target="_blank">请点此下载</a><br>
+	字体文件Fonts： <a href="https://drive.google.com/file/d/1zc9ftD4ZI-E75FnisqMjIwj6rLG7bj2d" target="_blank">Google Disk</a><br>
 </p>
-<hr>
+
 <h4>权属声明：</h4>
 <ul>
 	<li>本字幕由 <b>星空字幕组</b> 基于 <b>AGPLv3通用协议</b> 进行许可；</li>
