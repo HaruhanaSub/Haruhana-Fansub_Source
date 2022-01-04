@@ -32,9 +32,3 @@
 	</tbody>
 	</table>
 </ul>
-<hr>
-<ul>
-	<li>欢迎加入星空字幕组，招募QQ群：644319022</li>
-	<li>欢迎关注本组微博：@星空字幕娘<a href="https://weibo.com/XKsub">https://weibo.com/XKsub</a></li>
-	<li>欢迎进入爱发电为本组购买片源贡献一份力量：<a href="https://afdian.net/@XKsub">https://afdian.net/@XKsub</a></li>
-</ul>
