@@ -1,0 +1,21 @@
+﻿----------STAFF----------
+汉仪游园体W <HYYouYuanTiW>
+
+----------IN「One night」----------
+FOT-レイルウェイ Std B <FOT-Railway Std B>
+汉仪双线体简 <HYShuangXianJ>
+汉仪双线体繁 <HYShuangXianF>
+
+----------ED「星めぐりの歌」----------
+FOT-桔梗B Std L <FOT-KikyouB Std L>
+方正细倩_GBK <FZXiQian-M15>
+
+----------SCREEN----------
+华康隶书体W7 <DFLiShuW7-GB>
+華康隸書體W7 <DFLiShuW7-B5>
+方正新楷体_GBK <FZNewKai-Z03>
+汉仪新蒂黑板报体底字 <Hanyi Senty Chalk Original>
+
+----------COMMENT&TEXT----------
+UDデジタル教科書体 StdN M <UDDigiKyokasho StdN M>
+霞鹜文楷 Bold <LXGW WenKai Bold>
