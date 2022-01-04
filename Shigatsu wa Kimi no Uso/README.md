@@ -1,11 +1,6 @@
 <table style="width:900px;height:100%;" cellpadding="2" cellspacing="1" align="center" border="0" bordercolor="#000000">
 	<tbody>
 		<tr>
-			<td align="center">
-				<img src="https://www.z4a.net/images/2021/12/12/Shigatsu-wa-Kimi-no-Uso---Poster.webp" style="width:820px;height:1156px;" /><br />
-			</td>
-		</tr>
-		<tr>
 			<td>
 				<p>
 					<p style="font-family:&quot;Microsoft YaHei&quot;;font-size:medium;text-align:center;">
@@ -51,6 +46,11 @@
 						<li><img src="https://www.gnu.org/graphics/agplv3-155x51.png" alt="" style="width:155px;height:51px;" /></li>
 					</ul>
 				</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://www.z4a.net/images/2021/12/12/Shigatsu-wa-Kimi-no-Uso---Poster.webp" style="width:820px;height:1156px;" /><br />
 			</td>
 		</tr>
 	</tbody>
