@@ -1,4 +1,4 @@
-<h3 align="center">在魔王城说晚安</h3>
+<h3 align="center">♢星空字幕组♢<br>在魔王城说晚安</h3>
 
 <h4>资源下载：</h4>
 <p>
