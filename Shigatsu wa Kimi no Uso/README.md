@@ -10,11 +10,11 @@
 <table align="center">
 	<tbody align="center">
 		<tr>
-		<td>翻译</td>
-		<td>校对</td>
-		<td>后期</td>
-		<td>繁化</td>
-		<td>压制</td>
+		<td>　　翻译　　</td>
+		<td>　　校对　　</td>
+		<td>　　后期　　</td>
+		<td>　　繁化　　</td>
+		<td>　　压制　　</td>
 	</tr>
 	<tr>
 		<td>雨曝し<br />萬福<br />火树银花</td>
