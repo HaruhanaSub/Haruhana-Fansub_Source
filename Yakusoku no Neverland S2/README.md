@@ -1,4 +1,4 @@
-<h3 align="center">♢星空字幕组♢<br>约定的梦幻岛</h3>
+<h3 align="center">♢星空字幕组♢<br>约定的梦幻岛 S2</h3>
 
 <h4>资源下载：</h4>
 <ul>
