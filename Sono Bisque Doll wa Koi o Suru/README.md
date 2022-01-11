@@ -6,9 +6,6 @@
     <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Funsub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
 </ul>
 
-
-
-
 <h4>Subtitle Staff：</h4>
 
 <table align="center">
@@ -36,16 +33,11 @@
 	<li>你可以：共享、演绎；</li>
 	<li>你应当：署名、非商业性使用、以相同方式共享。</li>
 	<li>　</li>
-	<li><b>Substitles</b> presented by <b>❀Haruhana Funsub❀</b> is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>GNU AGPLv3</b></a>.</li>
+	<li><b>Substitles</b> presented by <b>❀Haruhana Fansub❀</b> is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>GNU AGPLv3</b></a>.</li>
 	<li>You are free to <b>Share and Adapt.</b></li>
 	<li>Under the following terms: <b>Attribution, NonCommercial and ShareAlike.</b></li>
 </ul>
 
-
-
 <p align = "center">
 	<img src="https://www.z4a.net/images/2022/01/09/Kisekoi---Poster.webp" style="width:800px;height:600px;" />
 </p>
-
-
-
