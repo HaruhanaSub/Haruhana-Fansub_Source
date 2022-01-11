@@ -3,11 +3,8 @@
 <h4>资源下载：</h4>
 <ul>
     <li>字幕文件： <a href="https://bbs.acgrip.com/thread-6706-1-1.html">VCB-S字幕论坛</a></li>
-    <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Funsub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
+    <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
 </ul>
-
-
-
 
 <h4>Subtitle Staff：</h4>
 
@@ -41,11 +38,6 @@
 	<li>Under the following terms: <b>Attribution, NonCommercial and ShareAlike.</b></li>
 </ul>
 
-
-
 <p align = "center">
 	<img src="https://www.z4a.net/images/2022/01/10/Harmonie---Poster.webp" style="width:800px;height:300px">
 </p>
-
-
-
