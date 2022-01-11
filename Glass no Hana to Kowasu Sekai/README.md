@@ -3,10 +3,8 @@
 <h4>资源下载：</h4>
 <ul>
     <li>字幕文件： <a href="https://" target="_blank">待制作</a></li>
-    <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Funsub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
+    <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
 </ul>
-
-
 
 <h4>Subtitle Staff：</h4>
 
@@ -29,7 +27,6 @@
 	</tbody>
 </table>
 
-
 <h4>权属声明：</h4>
 <ul>
 	<li>本字幕由 <b>❀拨雪寻春❀</b> 基于 <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>AGPLv3通用协议</b></a> 进行许可；</li>
@@ -40,8 +37,6 @@
 	<li>You are free to <b>Share and Adapt.</b></li>
 	<li>Under the following terms: <b>Attribution, NonCommercial and ShareAlike.</b></li>
 </ul>
-
-
 
 <p align = "center">
 	<img src="https://www.z4a.net/images/2022/01/10/Glass-no-Hana-to-Kowasu-Sekai---Poster.webp" style="width:900px;height:506px">
