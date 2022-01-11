@@ -1,5 +1,5 @@
 <h3 align="center">♢星空字幕组♢<br>冰菓</h3>
-<h4 align="right"><font color="green">——纪念武本康弘导演</h4>
+<h4 align="right"><font color="green">——记念武本康弘导演</h4>
 
 <p align="center">
 	斯人已逝，精神长存；沉舟侧畔，千帆竞发；<br>
