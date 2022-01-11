@@ -54,7 +54,7 @@ Netflix：これも奉太郎の<b>｢凶｣</b>のなせる業かなあ<br>
 <p>
 　　字体文件/Fonts：<br>
 　　　　百度网盘Baidu Disk：
-	<a href="https://pan.baidu.com/s/1qMyAgbU5nt2uWPZUA-Y_GA" target="_blank">请点此下载</a>　　提取码：shr7<br>
+	<a href="https://pan.baidu.com/s/1p1RTbisuok8Pt0i9e0-PIw" target="_blank">请点此下载</a>　　提取码：e6ah<br>
 　　　　谷歌网盘Google Disk：
 	<a href="https://drive.google.com/file/d/1Eh4-2FU8hGfMxoC1aHnMqQ2Qmj9gTaP2/view?usp=sharing" target="_blank">请点此下载</a><span></span>
 </p>
