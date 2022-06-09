@@ -21,8 +21,8 @@
             <td><img src="https://www.gnu.org/graphics/agplv3-155x51.png" alt="" style="width:155px;height:51px"></td>
 			<td>火树银花</td>
 			<td>一星</td>
-			<td>目子底</td>
-			<td>田姆斯邦德</td>
+			<td>火树银花</td>
+			<td>名侦探柯南</td>
 		</tr>
 	</tbody>
 </table>
