@@ -29,9 +29,8 @@
 		</tr>
 	</tbody>
 </table>
-
 <h4>相关说明：</h4>
-<p style="text-align:left">·　　若是在两三年前，我们大概率不会发布内封版或外挂字幕。理由很简单，单集最大115M的字幕没有哪个字幕滤镜能够实时渲染。然而随着技术的进步和滤镜的开发，如今基于libass的字幕滤镜可以顺畅地渲染字幕，拿出来分享也就有意义了。<br>·　　本字幕请在此获取：<a href="https://bbs.acgrip.com/thread-9294-1-1.html" target="_blank">vcb字幕论坛</a>；<br>·　　欢迎您通过 haruhanasub@gmail.com 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">Telegram</a> 向我们反馈各类错误或提出意见建议；</p>
+<p style="text-align:left">·　　若是在两三年前，我们大概率不会发布内封版或外挂字幕。理由很简单，单集最大115M的字幕没有哪个字幕滤镜能够实时渲染。然而随着技术的进步和滤镜的开发，如今基于libass的字幕滤镜可以顺畅地渲染字幕，拿出来分享也就有意义了。<br>·　　欢迎您通过 haruhanasub@gmail.com 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">Telegram</a> 向我们反馈各类错误或提出意见建议。</p>
 
 <h4>闲言碎语：</h4>
 <p style="text-align:left">·　　火树银花：虽然拖了许久才完成本作，但这或许是一件幸事。早先的两版校对稿多少有点“用力过猛”。要想译好此作，既要沉浸其中，入情入境；又要超然其外，不为喷薄的情感所扰。然而说起来容易做起来难，情至深处何以遣词造句？所以只能依靠时间回归平静。</p>
@@ -42,17 +41,17 @@
 <p style="text-align:center">乐声、春光、斜阳，美景良辰，一如既往。<br>萤火、醉月、稜桥，你已远去，空自留香。<br>他仍在细数与你的过往，用目光遥寄那语挚情长。</p>
 <p style="text-align:right">火树银花 笔<br>2022年6月</p>
 
-
 <h4>权属声明：</h4>
 <ul>
 	<li>本字幕由 <b>❀拨雪寻春❀</b> 基于 <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>AGPLv3通用协议</b></a> 进行许可；</li>
 	<li>你可以：共享、演绎；</li>
 	<li>你应当：署名、非商业性使用、以相同方式共享。</li>
 	<li>　</li>
-	<li><b>Substitles</b> presented by <b>Haruhana Fansub</b> is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>GNU AGPLv3</b></a>.</li>
+	<li><b>Subtitles</b> presented by <b>Haruhana Fansub</b> is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank"><b>GNU AGPLv3</b></a>.</li>
 	<li>You are free to <b>Share and Adapt.</b></li>
 	<li>Under the following terms: <b>Attribution, NonCommercial and ShareAlike.</b></li>
 </ul>
 <p align = "center">
 	<img src="https://www.z4a.net/images/2022/06/11/bgMain.webp" style="width:900px;height:900px">
 </p>
+
