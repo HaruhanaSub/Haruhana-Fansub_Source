@@ -2,7 +2,7 @@
 
 <h4>资源下载：</h4>
 <ul>
-    <li>字幕下载： <a href="https://" target="_blank">BD未发售</a></li>
+    <li>字体下载： <a href="https://wwol.lanzoum.com/ipmii0lqzh6b" target="_blank">蓝奏云</a>（code：efbb）</li>
     <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
 </ul>
 
