@@ -1,5 +1,10 @@
 <p>
 	<img src="https://s2.loli.net/2023/02/27/ADYdrCqoSFaXJUG.png" style="width:160px;height:66px"> <strong><span style="font-size:18px" data-redactor-tag="span">　致深爱你的那个我 & 致我深爱的每个你</span></strong>
+<h4>资源下载：</h4>
+<ul>
+    <li>字体文件： <a href="https://saku321-my.sharepoint.com/:f:/g/personal/haruhana_saku321_onmicrosoft_com/Elaq1eOVOwJKp7OCf2brq3wB_CATIK2vdLBzZ-pnu7WquA">Onedrive</a>（Code：haruhana）</li>
+    <li>欢迎您通过 <a href="haruhanasub@gmail.com" target="_blank">❀电子邮件❀</a> 或 <a href="https://t.me/Haruhana_Fansub" target="_blank">❀Telegram❀</a> 向我们反馈各类错误或提出意见建议。</li>
+</ul>
 </p>
 <h4>Subtitle Staff：</h4>
 <ul>
