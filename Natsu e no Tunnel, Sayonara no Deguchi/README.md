@@ -2,6 +2,14 @@
 	<img src="https://s2.loli.net/2023/02/27/ADYdrCqoSFaXJUG.png" style="width:160px;height:66px">
 	<strong><span style="font-size:18px">　通往夏天的隧道，告别过去的出口「夏へのトンネル, さよならの出口」The Tunnel to Summer, the Exit of Goodbyes</span></strong>
 </p>
+<h4>资源下载&修正履历：</h4>
+<ul>
+	<li><a href="https://wwol.lanzoum.com/b022n6y8b" target="_blank">字幕&字体存档（蓝奏）</a>　Code：haruhana</li>
+	<li><a href="https://drive.google.com/drive/folders/17VApy7JiCTHkH7D6P0FLupIOkUA5BDeZ" target="_blank">字幕&字体存档（谷歌）</a></li>
+	<li>2023_0528_简中：关系父母和我→关心父母和我</li>
+	<li>2023_0528_简繁：是在忌讳……→是在讨吉利吗（何かのジンクスですか）</li>
+	<li>2023_0528_简繁：借你的伞→你借给我的伞（避免歧义加上了主客体）</li>
+ </ul>
 <h4>Subtitle Staff：</h4>
 <ul>
 	<li>听写&翻译：火树银花</li>
