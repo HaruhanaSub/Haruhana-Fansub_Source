@@ -7,7 +7,7 @@
 	<li>【2013】<a href="https://bangumi.moe/torrent/642f49ab685d5f00072edb1b" target="_blank">翠庭檐下说心话（言叶之庭）</a></li>
 	<li>【2016】你的名字（In Progress）</li>
 	<li>【2019】<a href="https://bangumi.moe/torrent/6489d534215b6f0008e83eae" target="_blank">天气之子</a></li>
-	<li>【2022】<a href=https://bangumi.moe/torrent/64ae02ad6533870007361a77" target="_blank">铃芽之旅（WEB Ver.）</a>BD发售后，我们会予以修正和完善</li>
+	<li>【2022】<a href=https://bangumi.moe/torrent/64ae02ad6533870007361a77" target="_blank">铃芽之旅</a></li>
 </ul>
 <h4>资源下载：</h4>
 <ul>
