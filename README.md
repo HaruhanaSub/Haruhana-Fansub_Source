@@ -1,6 +1,6 @@
 ## 字幕仓库
 
-- 本仓库存储的字幕，通常为**最新版本**
+- 本仓库存储的字幕，**通常为最新版本**，推荐从 [项目表](https://github.com/users/HaruhanaSub/projects/2) 访问具体的作品目录
   > 如发现错误，可通过 [表单](https://wj.qq.com/s2/15281807/6a90/) 、 [议题](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/issues) 、[群组](https://qm.qq.com/q/LFOmKxHXsm) 或 [haruhanasub@gmail.com](mailto:haruhanasub@gmail.com) 进行反馈
 - 为确保字幕正常显示，请安装相应字体，并使用 [MPV](https://github.com/hooke007/MPV_lazy/releases) 或 [MPC](https://github.com/clsid2/mpc-hc/releases) 等支持 libass 的播放器
   > MPC 应启用 libass：选项-字幕-默认样式：勾选「将 libass 用于 SSA/ASS 格式」
